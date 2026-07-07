@@ -52,3 +52,24 @@ footer {
   padding: 20px;
   background: #ffd86b;
 }
+input, textarea {
+  width: 90%;
+  padding: 12px;
+  margin: 10px;
+  border-radius: 15px;
+  border: 2px solid #ffd86b;
+  font-size: 16px;
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  background: #f4b942;
+  border: none;
+  padding: 15px 25px;
+  border-radius: 30px;
+  font-size: 18px;
+  cursor: pointer;
+}
